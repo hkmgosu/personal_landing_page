@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Erick Quiroz, Software Engineer', // <title>
+  siteTitle: 'Erick Quiroz, Software Engineer.', // <title>
   manifestName: 'Erick Quiroz Software Engineer',
-  manifestShortName: 'Erick Quiroz Landing', // max 12 characters
+  manifestShortName: 'Erick, Software Engineer', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
