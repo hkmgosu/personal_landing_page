@@ -23,11 +23,6 @@ module.exports = {
       url: 'https://github.com/hkmgosu',
     },
     {
-      icon: 'fa-instagram',
-      name: 'Facebook',
-      url: 'https://instagram.com/xxkukulkan',
-    },
-    {
       icon: 'fa-envelope-o',
       name: 'Email',
       url: 'mailto:erick.quiroz@live.com',
